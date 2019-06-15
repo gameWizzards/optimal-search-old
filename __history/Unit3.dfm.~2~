@@ -1,0 +1,32 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Form3'
+  ClientHeight = 379
+  ClientWidth = 418
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object StaticText1: TStaticText
+    Left = 325
+    Top = 330
+    Width = 85
+    Height = 17
+    Caption = #1052#1080#1093#1072#1083#1086' '#1051#1072#1076#1110#1082#1086#1074
+    TabOrder = 0
+  end
+  object StaticText2: TStaticText
+    Left = 325
+    Top = 353
+    Width = 73
+    Height = 17
+    Caption = #1052#1072#1082#1089#1080#1084' '#1071#1088#1084#1110#1096
+    TabOrder = 1
+  end
+end
